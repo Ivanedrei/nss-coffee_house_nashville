@@ -1,0 +1,23 @@
+.shop {
+    /* display: flex; */
+    border: 1px solid black;
+    width: 500px;
+    justify-content: space-between;
+    margin-right: 12px;
+    padding: 3px;
+    font-size: larger;
+}
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 20px;
+    flex-direction: row;
+
+}
+
+.pageHeader {
+    text-align: center;
+    font-size: 20px;
